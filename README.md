@@ -4,8 +4,8 @@ Detecting the drowsiness level of the driver and notify or alert him if he reach
 
 We will follow three main techniques to detect the drowsiness that are
 1. Tracking eye movements
-2. Monitering the pulse rate
-3. Monitering the vehicale movements. 
+2. Monitering the vehicale movements.
+3. Monitering the pulse rate
 
 ## Tracking eye movements
 
