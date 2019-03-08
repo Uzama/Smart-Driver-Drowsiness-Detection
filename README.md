@@ -1,11 +1,10 @@
 # :oncoming_automobile: :taxi: :bus: Smart-Driver-Drowsiness-Detection :blue_car: :articulated_lorry: :minibus:
 
-Detecting the drowsiness level of the driver and notify or alert him if he reach the limit of the drowsiness hazrd level
-
+Detecting the drowsiness level of the driver and notify or alert him if he reaches the limit of the drowsiness hazard level
 We will follow three main techniques to detect the drowsiness that are
-1. Tracking eye movements :man:
-2. Monitering the vehicale movements. :eyes: :oncoming_bus:
-3. Monitering the pulse rate :heart:
+1. Monitoring vehicle movements :man:
+2. Monitoring the vehicale movements. :eyes: :oncoming_bus:
+3. Monitoring the pulse rate :heart:
 
 ## Tracking eye movements :eyes:
 
