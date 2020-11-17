@@ -2,9 +2,8 @@
 
 Detecting the drowsiness level of the driver and notify or alert him if he reaches the limit of the drowsiness hazard level
 We will follow three main techniques to detect the drowsiness that are
-1. Monitoring vehicle movements :man:
-2. Monitoring the vehicale movements. :eyes: :oncoming_bus:
-3. Monitoring the pulse rate :heart:
+1. Monitoring eyes blinking pattern:man:
+2. Monitoring the pulse rate :heart:
 
 ## Tracking eye movements :eyes:
 
